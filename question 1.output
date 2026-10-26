@@ -1,0 +1,15 @@
+Expression 1: 45 - (+19)
+A = 00101101
+B = 00010011
+-B = 11101101
+Result (Binary) = 00011010
+Result (Decimal) = 26
+Overflow = False
+
+Expression 2: (-35) - (-12)
+A = 11011101
+B = 11110100
+-B = 00001100
+Result (Binary) = 11101001
+Result (Decimal) = -23
+Overflow = False
